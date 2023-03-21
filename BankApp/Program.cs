@@ -10,6 +10,6 @@ BankAccount User1 = new BankAccount();
 program.AddAccount();
 
 
-program.PrintAccountInfo();
+
 
 
