@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos de C# para principiantes\\BankApp\\BankApp\\BankApp.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos_de_C#_para_principiantes\\BankApp\\BankApp\\BankApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos de C# para principiantes\\BankApp\\BankApp\\BankApp.csproj": {
+    "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos_de_C#_para_principiantes\\BankApp\\BankApp\\BankApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos de C# para principiantes\\BankApp\\BankApp\\BankApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos_de_C#_para_principiantes\\BankApp\\BankApp\\BankApp.csproj",
         "projectName": "BankApp",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos de C# para principiantes\\BankApp\\BankApp\\BankApp.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos_de_C#_para_principiantes\\BankApp\\BankApp\\BankApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos de C# para principiantes\\BankApp\\BankApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Fundamentos_de_C#_para_principiantes\\BankApp\\BankApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
